@@ -52,6 +52,4 @@ To use this code for house price prediction:
 
 Remember that this is a simplified example, and in practice, you may want to use more extensive datasets and advanced techniques for accurate house price predictions.
 
-If you have any questions or encounter issues, feel free to [create an issue](https://github.com/enescaglarr/ML-DL-Projects/House Price Prediction using Machine Learning/issues) in this repository.
-
 Enjoy predicting house prices using machine learning!
