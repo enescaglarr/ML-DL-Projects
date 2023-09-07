@@ -29,4 +29,4 @@ Each project is designed to showcase different techniques, algorithms, and appli
 1. Clone this repository to your local machine.
 
 ```bash
-git clone https://github.com/yourusername/ML-DL-Projects.git
+git clone https://github.com/enescaglarr/ML-DL-Projects.git
