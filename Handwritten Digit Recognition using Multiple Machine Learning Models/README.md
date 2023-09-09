@@ -47,7 +47,7 @@ To use this code for handwritten digit recognition:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/digit-recognition.git
+   git clone https://github.com/enescaglarr/ML-DL-Projects.git
    ```
 
 2. Open the Jupyter Notebook or Python environment of your choice.
@@ -58,6 +58,6 @@ To use this code for handwritten digit recognition:
 
 Feel free to explore different aspects of the code and dataset to gain a better understanding of machine learning for image recognition.
 
-If you have any questions or encounter issues, please don't hesitate to [create an issue](https://github.com/your-username/digit-recognition/issues) in this repository.
+If you have any questions or encounter issues, please don't hesitate to issue in this repository.
 
 Enjoy exploring handwritten digit recognition using multiple machine learning models!
