@@ -50,7 +50,7 @@ To use this code for salary calculation:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/salary-calculation.git
+   git clone https://github.com/enescaglarr/ML-DL-Projects.git
    ```
 
 2. Download the "salaries_dataset.csv" dataset and place it in the same directory as the code.
