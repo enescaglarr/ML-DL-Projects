@@ -41,7 +41,7 @@ To use this code for house price prediction:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/house-price-prediction.git
+   git clone https://github.com/enescaglarr/ML-DL-Projects.git
    ```
 
 2. Download the "housepricesdataset.csv" dataset and place it in the same directory as the code.
