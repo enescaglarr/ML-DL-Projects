@@ -41,7 +41,7 @@ To use this code for advanced customer segmentation:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/customer-segmentation.git
+   git clone https://github.com/enescaglarr/customer-segmentation.git
    ```
 
 2. Download the "segmentation-data.csv" dataset and place it in the same directory as the code.
@@ -54,6 +54,5 @@ To use this code for advanced customer segmentation:
 
 This project demonstrates how modern machine learning algorithms can be used to segment customers effectively, providing valuable insights for businesses. Whether you are a data scientist, analyst, or business professional, this repository offers a powerful tool for understanding customer behavior.
 
-If you have any questions or encounter issues, please don't hesitate to [create an issue](https://github.com/your-username/customer-segmentation/issues) in this repository.
 
 Explore the world of advanced customer segmentation using the latest artificial intelligence algorithms!
