@@ -14,14 +14,7 @@ Each project is designed to showcase different techniques, algorithms, and appli
 4. **Advanced Customer Segmentation using Machine Learning**: Perform customer segmentation using advanced unsupervised learning algorithms.
 5. **IMDB Sentiment Analysis Using NLP (Natural Language Processing)**: Analyze sentiment in IMDB movie reviews using NLP.
 6. **San Francisco Crime Geographical Clustering using Machine Learning**: Cluster and visualize crime data on a map.
-7. **Building a Movie Recommendation System**: Create a movie recommendation system using collaborative filtering.
-8. **Predicting Diabetes using Artificial Neural Networks**: Predict diabetes using artificial neural networks.
-9. **Image Classification using Convolutional Neural Network and Artificial Neural Network Algorithms**: Classify images using deep learning.
-10. **Airline Passenger(Time Series) Prediction using Keras LSTM**: Forecast airline passenger numbers using LSTM.
-11. **Image Classification (ImageNet Library) using Transfer Learning - Keras InceptionResNetV2**: Implement image classification using transfer learning.
-12. **Military Aircraft (Satellite) Imagery Classification using Deep Learning**: Classify military aircraft images using deep learning.
-13. **Sound Signal Processing for Deep Learning using Python (Custom Datasets) (Part - 1/2)**: Preprocess audio data for deep learning.
-14. **Sound Classification using Deep Learning (Part - 2/2)**: Classify sounds using a CNN architecture.
+
 
 
 ## How to Use
